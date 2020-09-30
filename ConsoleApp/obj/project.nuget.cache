@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R/46Wu/3cANxBp3kVkSb9Ac7ASsnRaye4PB3/C12E9YbA/hjsEztONw0Q2wQbOE0LKHhYq3thr89LI8ukdMUWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jp\\source\\repos\\BeyondTest\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

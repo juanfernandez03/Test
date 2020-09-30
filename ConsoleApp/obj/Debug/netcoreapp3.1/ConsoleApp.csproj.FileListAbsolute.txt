@@ -1,0 +1,15 @@
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\jp\source\repos\BeyondTest\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
